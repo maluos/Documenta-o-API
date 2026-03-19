@@ -125,12 +125,13 @@ PROGRAMA RODANDO
 ![Image](https://github.com/user-attachments/assets/dfe5d0e1-9840-4093-98a5-218254e97c61)
 
 POST FUNCIONANDO 
-https://github.com/maluos/Documenta-o-API/issues/2#issue-4101475311
+![Image](https://github.com/user-attachments/assets/0a711f7d-b89b-4d6a-80c0-c12eccfa1d6e)
 
 GET FUNCIONANDO
 ![Image](https://github.com/user-attachments/assets/0aa07971-806d-4935-87f3-8481fc524a9b)
 
-
+ERRO VALIDAÇÃO
+![Image](https://github.com/user-attachments/assets/fc9df1f6-9f63-4299-b02d-00a4408022e9)
 
 
 🎀 EXPLICAÇÃO DAS VALIDAÇÕES IMPLEMENTADAS 🎀
