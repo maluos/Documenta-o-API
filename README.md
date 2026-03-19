@@ -121,7 +121,11 @@ Resposta:
    
 🎀 CAPTURA DOS TESTES 🎀
 
+PROGRAMA RODANDO
 ![Image](https://github.com/user-attachments/assets/dfe5d0e1-9840-4093-98a5-218254e97c61)
+
+POST FUNCIONANDO 
+https://github.com/maluos/Documenta-o-API/issues/2#issue-4101475311
 
 
 
