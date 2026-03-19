@@ -127,6 +127,9 @@ PROGRAMA RODANDO
 POST FUNCIONANDO 
 https://github.com/maluos/Documenta-o-API/issues/2#issue-4101475311
 
+GET FUNCIONANDO
+![Image](https://github.com/user-attachments/assets/0aa07971-806d-4935-87f3-8481fc524a9b)
+
 
 
 
